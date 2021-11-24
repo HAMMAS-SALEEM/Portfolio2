@@ -1,6 +1,11 @@
 * {
   font-family: 'Poppins', sans-serif;
 }
+#logo{
+  font-weight: bold;
+  font-size: 18px;
+  color: #6070ff;
+}
 header .fa-bars {
   font-weight: 500;
   font-size: 20px;
@@ -36,6 +41,5 @@ main {
 .connect{
   font-weight: 500;
   font-size: 16px;
-  position: relative;
-  top: 50px;
+  
 }
