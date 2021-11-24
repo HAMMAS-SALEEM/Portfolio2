@@ -31,7 +31,6 @@ section {
   background-image: url(background.png);
   background-position: center;
   background-repeat: no-repeat;
-
   background-size: cover;
 }
 
@@ -80,9 +79,9 @@ li {
 }
 
 .container2 {
- display: flex;
- flex-direction: column;
- align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 
 .fa-color {
