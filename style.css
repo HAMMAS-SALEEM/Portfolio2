@@ -25,9 +25,9 @@ li {
 
 main {
   background-image: url(background.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    padding: 30px 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 30px 0;
 }
 
 .container {
@@ -58,7 +58,7 @@ main {
 
 .connect {
   font-weight: 500;
-  font-size: 16px; 
+  font-size: 16px;
   color: #7f8cff;
 }
 
