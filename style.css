@@ -1,3 +1,41 @@
-h1 {
-  color: blueviolet;
+* {
+  font-family: 'Poppins', sans-serif;
+}
+header .fa-bars {
+  font-weight: 500;
+  font-size: 20px;
+  cursor: pointer;
+}
+main {
+  background-image: url(background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 30px 0;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  border: springgreen 2px solid;
+}
+.container0{
+  display: flex;
+}
+.intro {
+  font-size: 40px;
+  font-weight: bold;
+  color: #172b4d;
+}
+.description{
+  font-size: 16px;
+  text-align: justify;
+  line-height: 28px;
+  margin-left: 5px;
+  margin-right: 5px;
+  color: #172b4d;
+}
+.connect{
+  font-weight: 500;
+  font-size: 16px;
+  position: relative;
+  top: 50px;
 }
