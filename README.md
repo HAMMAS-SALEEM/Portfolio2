@@ -2,7 +2,7 @@
 
 # Portfolio
 
-> One paragraph statement about the project.
+> My First Web App for Mobile
 
 Additional description about the project and its features.
 
